@@ -1,0 +1,16 @@
+{
+  "name": "motion-ui-basic",
+  "description": "packages for motion-ui basic",
+  "author": "lau thiam kok",
+  "license": "ISC",
+  "dependencies": {
+    "foundation-sites": "^6.5.0-rc.3",
+    "what-input": "^4.1.0",
+    "motion-ui": "^2.0.3",
+    "jquery": "^3.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "[git-url-of-your-project]"
+  }
+}
