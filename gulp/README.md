@@ -5,6 +5,8 @@ Motion UI Gulp Workflow
 
 Read the post [here]() about this repository.
 
+View the hosted page [here](https://lautiamkok.github.io/motion-ui-workflows/gulp/index.html)
+
 Quick start
 =============
 
