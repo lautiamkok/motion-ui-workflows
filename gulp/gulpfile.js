@@ -175,7 +175,7 @@ gulp.task('watch', function () {
   // Watch all image files recursively.
   watch([
       'images/**',
-      'images/**/*.{jpg,png,gif}'
+      'images/**/*.{jpg,png,gif,svg}'
     ], batch(function (events, done) {
       gulp.start('copy-images', done)
   }))
