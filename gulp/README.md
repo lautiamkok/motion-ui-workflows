@@ -14,7 +14,7 @@ Quick start
 # install dependencies
 $ npm install
 
-# LESS and ES6 development
+# LESS, Sass, and ES6 development
 $ gulp watch
 
 # build for production
